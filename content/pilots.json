@@ -1,0 +1,79 @@
+[
+  {
+    "id": "gwangjong",
+    "kind": "인물형",
+    "name": "광종",
+    "file": "인물형_광종_v002.md",
+    "episode": 21,
+    "strategy": "권력의 기반이 달라지는 과정을 따라갑니다.",
+    "scope": "왼쪽은 직전 시안(v001), 오른쪽은 압축 개정판(v002)입니다. 기존 100편의 21번 주제와 연결한 별도 시안입니다.",
+    "goals": [
+      "노비안검법의 대상과 호족·국가에 미친 효과",
+      "과거제·공복의 기능과 개혁 군주 평가의 한계"
+    ],
+    "sources": [
+      {
+        "title": "우리역사넷 · 노비안검법",
+        "url": "https://contents.history.go.kr/mobile/tg/view.do?levelId=tg_002_0350&pageUnit=10"
+      },
+      {
+        "title": "우리역사넷 · 과거제",
+        "url": "https://contents.history.go.kr/mobile/kc/view.do?code=kc_age_20&levelId=kc_i200307"
+      }
+    ],
+    "sourcePath": "01_스토리/비교시안/인물형_광종_v002.md"
+  },
+  {
+    "id": "daedong",
+    "kind": "제도형",
+    "name": "대동법",
+    "file": "제도형_대동법_v002.md",
+    "episode": 50,
+    "strategy": "공물과 비용이 어느 손을 거치는지 따라갑니다.",
+    "scope": "왼쪽은 직전 시안(v001), 오른쪽은 압축 개정판(v002)입니다. 기존 100편의 50번 주제와 연결한 별도 시안입니다.",
+    "goals": [
+      "방납의 문제와 공납 부담 기준의 변화",
+      "공인의 물품 조달과 상품 유통의 연결",
+      "대토지 소유자와 방납인의 반대 이유"
+    ],
+    "sources": [
+      {
+        "title": "우리역사넷 · 대동법 시행",
+        "url": "https://contents.history.go.kr/front/hm/view.do?levelId=hm_102_0040"
+      },
+      {
+        "title": "우리역사넷 · 공인",
+        "url": "https://contents.history.go.kr/front/tg/view.do?ganada=%EC%A0%84%EC%B2%B4&levelId=tg_003_1600&pageUnit=10&treeId=0105"
+      },
+      {
+        "title": "우리역사넷 · 대동법 반대의 이해관계",
+        "url": "https://contents.history.go.kr/front/nh/print.do?levelId=nh_030_0060_0010_0010_0030"
+      }
+    ],
+    "sourcePath": "01_스토리/비교시안/제도형_대동법_v002.md"
+  },
+  {
+    "id": "muryeong",
+    "kind": "문화형",
+    "name": "무령왕릉",
+    "file": "문화형_무령왕릉_v002.md",
+    "episode": 8,
+    "strategy": "무덤의 주인을 확인하는 증거를 하나씩 읽습니다.",
+    "scope": "왼쪽은 직전 시안(v001), 오른쪽은 압축 개정판(v002)입니다. 기존 100편의 08번 주제와 연결한 별도 시안입니다.",
+    "goals": [
+      "공주·웅진기의 벽돌무덤과 지석의 역할",
+      "유물로 확인한 사실과 아직 모르는 내용의 구별"
+    ],
+    "sources": [
+      {
+        "title": "국립중앙박물관 · 무령왕릉 관 꾸미개",
+        "url": "https://www.museum.go.kr/MUSEUM/contents/M0501000000.do?relicRecommendId=16892&schM=view"
+      },
+      {
+        "title": "국립중앙박물관 · 받침 있는 은잔",
+        "url": "https://www.museum.go.kr/MUSEUM/contents/M0501000000.do?pageSize=10&relicRecommendCategory=&relicRecommendId=1569306&sc=&schM=view&sv="
+      }
+    ],
+    "sourcePath": "01_스토리/비교시안/문화형_무령왕릉_v002.md"
+  }
+]
