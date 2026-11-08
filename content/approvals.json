@@ -1,0 +1,25 @@
+[
+  {
+    "episode": 1,
+    "title": "구석기 시대",
+    "status": "approved",
+    "approvedBy": "user",
+    "approvedDate": "2026-11-05",
+    "scope": "시나리오 문안",
+    "durationVerified": false,
+    "source": "01_스토리/선사시대_시나리오_v005.md"
+  },
+  {
+    "episode": 2,
+    "title": "신석기 시대",
+    "status": "approved",
+    "approvalStage": "first",
+    "approvalLabel": "1차 확정",
+    "approvedBy": "user",
+    "approvedDate": "2026-11-08",
+    "scope": "시나리오 문안. 압축한 본문에 마지막으로 승인한 유적지 문단을 반영함. 쇼츠용 재구성은 별도 비교안이며 아직 승인되지 않음.",
+    "durationVerified": false,
+    "source": "01_스토리/선사시대_시나리오_v006.md",
+    "standaloneSource": "01_스토리/신석기_시나리오_1차확정_v001.md"
+  }
+]
